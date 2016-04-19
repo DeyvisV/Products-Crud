@@ -1,0 +1,13 @@
+{
+  "name": "Food_Facilito",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cloudinary": "^1.3.1",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.4.12",
+    "multer": "^1.1.0"
+  }
+}
